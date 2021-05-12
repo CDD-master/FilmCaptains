@@ -69,6 +69,12 @@ font-family: Arial, Helvetica, sans-serif;
     clear: both;
 }
 
+.textbox {
+    position: right; 
+}
+    
+    
+
 @media screen and (max-width: 800px) {
     .leftcolumn, .rightcolumn {
         width: 100%;
