@@ -102,14 +102,14 @@ input[type=submit]:hover {
 }
 
 .col-25 {
-    float: left;
+    float: right;
     width: 25%;
     marign-top: 6px;
 }
 
 .col-75 {
-    float: left;
-    width: 75%;
+    float: right;
+    width: 35%;
     margin-top: 6px;
 }
 
